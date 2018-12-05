@@ -15,6 +15,6 @@
     * [关于从容](hu-si-luan-xiang/20181123.md)
     * [关于时间](hu-si-luan-xiang/20181126.md)
     * [关于小宝的作业](hu-si-luan-xiang/20181128.md)
-    * [20181130](hu-si-luan-xiang/20181130.md)
+    * [关于交作业和辅导作业](hu-si-luan-xiang/20181130.md)
 * [First Chapter](chapter1.md)
 
