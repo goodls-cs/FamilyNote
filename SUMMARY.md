@@ -13,5 +13,6 @@
     * [关于生气11.22](hu-si-luan-xiang/guan-yu-sheng-qi.md)
     * [回忆《寻梦环游记》思考死亡11.22](hu-si-luan-xiang/si-kao-si-wang-11-22.md)
     * [关于从容](hu-si-luan-xiang/20181123.md)
+    * [20181126](hu-si-luan-xiang/20181126.md)
 * [First Chapter](chapter1.md)
 
