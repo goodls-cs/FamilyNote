@@ -1,3 +1,2 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# 聚沙成塔
+>信心来自于日积月累、年复一年的持久努力和心灵体悟
